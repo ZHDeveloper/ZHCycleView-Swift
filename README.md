@@ -116,3 +116,6 @@ class BannerCell: UICollectionViewCell {
 ```
 
 
+## 效果图
+
+![MacDown logo](./demo.png)
